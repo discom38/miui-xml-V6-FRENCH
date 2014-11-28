@@ -244,8 +244,6 @@
   <string name="tab_local">Local</string>
   <string name="tab_online">En ligne</string>
   <string name="tab_category">Catégories</string>
-  <string name="huangli_label">Huang Li</string>
-  <string name="holiday_label">Fête</string>
   <string name="pref_title_no_remind">Aucun rappel</string>
   <string name="pref_title_notification_remind">Notification de rappel</string>
   <string name="pref_title_alert_remind">Pop-up de rappel</string>
@@ -266,4 +264,10 @@
   <string name="action_text_new_event">Ajouter</string>
   <string name="event_action_delete">Supprimer</string>
   <string name="event_action_edit">Modifier</string>
+	<string name="anniversary_term">anniversaire</string>
+	<string name="birthday_term">anniversaire</string>
+	<string name="can_not_modify_allday_event">Les événements durant la journée ne peuvent être modifiés</string>
+	<string name="can_not_modify_repeating_acrossing_days_event">Les événements répétés et étalés sur plusieurs jours ne peuvent être modifiés</string>
+	<string name="edit_event_reminder_off_toast">Pas de rappel par défaut</string>
+	<string name="xiaomi_calendar_display_name">Calendrier Xiaomi</string>
 </resources>

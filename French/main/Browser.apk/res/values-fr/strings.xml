@@ -78,7 +78,6 @@
   <string name="bookmark_needs_title">Vous devez attribuer un nom à votre favori.</string>
   <string name="bookmark_needs_url">Le favori doit disposer d\'un emplacement.</string>
   <string name="bookmark_not_saved">"Impossible d'enregistrer le favori."</string>
-  <string name="bookmark_page">Ajouter la dernière page consultée</string>
   <string name="bookmark_saved">Enregistré dans les favoris</string>
   <string name="bookmark_this_page_to_readmodelist">Ajouter cette page à la liste de lecture des favoris</string>
   <string name="bookmark_title">Nom du favori</string>
@@ -300,7 +299,6 @@
   <string name="pref_development_normal_rendering">Rendu normal</string>
   <string name="pref_development_reset_prelogin">Réinitialiser préconnexion</string>
   <string name="pref_development_single_column_rendering">Rendu sur une seule colonne</string>
-  <string name="pref_development_title">Débogage</string>
   <string name="pref_development_trace">Activer le suivi</string>
   <string name="pref_development_viewport">Utiliser une fenêtre large</string>
   <string name="pref_development_visual_indicator">Activez l\'indicateur visuel</string>
@@ -335,14 +333,12 @@
   <string name="pref_inverted">Rendu inversé</string>
   <string name="pref_inverted_category">Rendu inversé de l\'écran</string>
   <string name="pref_inverted_contrast">Contraste</string>
-  <string name="pref_inverted_summary">Le noir devient blanc, et inversement.</string>
   <string name="pref_key_gesture_title">Touches et gestes</string>
   <string name="pref_key_title">Paramètres des touches</string>
   <string name="pref_link_prefetch_dialogtitle">Précharger les pages Web</string>
   <string name="pref_link_prefetch_summary">Autoriser le navigateur à précharger en arrière-plan les pages Web associées</string>
   <string name="pref_link_prefetch_title">Préchargement des pages Web</string>
   <string name="pref_link_prefetch_value_never_summary">Ne jamais autoriser le navigateur à précharger des pages web liées en arrière-plan</string>
-  <string name="pref_min_font_size">Taille de police minimale</string>
   <string name="pref_min_font_size_value">%d pt</string>
   <string name="pref_privacy_clear_cache">Vider le cache</string>
   <string name="pref_privacy_clear_cache_dlg">Supprimer les bases de données et le contenu mis en cache localement ?</string>
@@ -384,7 +380,6 @@
   <string name="pref_security_show_security_warning_summary">"Afficher un avertissement en cas de problème de sécurité d'un site"</string>
   <string name="pref_set_homepage_to">Adresse Web</string>
   <string name="pref_setting_title">Paramètres de pagination</string>
-  <string name="pref_text_zoom">Mise à l\'échelle du texte</string>
   <string name="pref_ua_string">Choisir l\'User agent</string>
   <string name="pref_ua_title">Gestion de l\'User agent</string>
   <string name="pref_video_preload_dialogtitle">Préchargement de la vidéo…</string>
@@ -694,7 +689,6 @@
   <string name="bookmark_url_lable">URL</string>
   <string name="bookmark_group_lable">Groupe</string>
   <string name="root_folder_lable">Aucun</string>
-  <string name="bookmark_URL_already_exisit">Ce lien est déjà présent dans vos favoris</string>
   <string name="add_new_quicklink">Ajouter lien rapide</string>
   <string name="url_opened_in_background">Ouvrir dans un onglet en arr.-plan</string>
   <string name="share_page_text">"Jette un oeil à ce lien : 【%1$s】 | %2$s"</string>
@@ -713,7 +707,6 @@
   <string name="select_download_device">Sélectionnez un périphérique</string>
   <string name="menu_exit_nightmode">Quitter</string>
   <string name="menu_nightmode">Mode nuit on/off</string>
-  <string name="tab_videopage">Vidéos</string>
   <string name="error_unauthorized">Trop de tentatives d\'authentification. Synchronisation désactivée.</string>
   <string name="error_forbidden">Votre compte a quelques problèmes. Synchronisation désactivée.</string>
   <string name="error_not_acceptable">Une erreur serveur s\'est produite. Synchronisation désactivée.</string>
@@ -726,6 +719,26 @@
   <string name="show_check_security_url_check_tip_dialog_title">Information</string>
   <string name="show_check_security_url_check_tip_dialog_description">"L'adresse de ce site sera envoyée vers les serveurs de Xiaomi afin vérifier sa sécurité. Vous pouvez désactiver cette fonctionnalité à tout moment dans les paramètres."</string>
   <string name="quicklink_bookmark_save">Enregistrer sous</string>
+	<string name="adblock_rules_restore">Débloquer</string>
+	<string name="adblock_websites_settings_empyt_hint">"Vous avez bloqué aucun site."</string>
+	<string name="adblock_websites_settings_title">Sites bloqués</string>
+	<string name="close_ads_choice_no">Autoriser</string>
+	<string name="close_ads_choice_yes">Bloquer</string>
+	<string name="close_ads_message">"Bloquer le contenu de ce site ? Vous pouvez voir les sites que vous avez bloqués dans Paramètres &gt; Options avancées &gt; Sites bloqués."</string>
+	<string name="close_ads_title">Bloquer le contenu ?</string>
+	<string name="data_traffic_prompt_change">Utiliser le réseau mobile pour regarder des vidéos augmentera votre utilisation de données. Si vous dépassez votre quota, votre opérateur pourrait vous facturer des frais supplémentaires.</string>
+	<string name="data_traffic_prompt_message">Utiliser le réseau mobile pour naviguer augmentera votre utilisation de données. Si vous dépassez votre quota, votre opérateur pourrait vous facturer des frais supplémentaires.</string>
+	<string name="data_traffic_prompt_title">Avertissement d\'utilisation de données</string>
+	<string name="enter_developer_mode">Entrer en mode développeur</string>
+	<string name="find_on_page_cancel">Annuler</string>
+	<string name="find_on_page_next">Suivant</string>
+	<string name="find_on_page_prev">Précédent</string>
+	<string name="maximum_input_alert">Taille maximale de 2048 caractères</string>
+	<string name="url_find_on_page_result">Voir dans le navigateur</string>
+	<string name="url_find_on_page_result_item">Voir tout le texte pour \"%s\"</string>
+	<string name="video_project_button">Stop</string>
+	<string name="video_project_msg">Projeter sur %s</string>
+	<string name="video_project_title">Affichage externe</string>
 <!-- à traduire ?? voice -->
   <string name="voice_title">Speak your command…</string>
   <string name="voice_sub_title">"Don't know what to say? Try Open mi.com!"</string>

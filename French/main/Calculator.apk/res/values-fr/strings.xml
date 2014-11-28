@@ -20,9 +20,7 @@
 <!--This French translation for MIUI is licenced under http://creativecommons.org/licenses/by-nc-sa/3.0/
     more infos : https://github.com/cpasmoi/miui-xml-V6-FRENCH -->
 <resources>
-  <string name="advanced">Fonctions avancées</string>
   <string name="app_name">Calculatrice</string>
-  <string name="basic">Panneau de base</string>
   <string name="clear">EFF.</string>
   <string name="clearDesc">effacer</string>
   <string name="clear_history">Effacer l\'historique</string>
@@ -30,7 +28,6 @@
   <string name="cosDesc">cosinus</string>
   <string name="cos_mathematical_value">cos</string>
   <string name="del">SUPPR.</string>
-  <string name="delDesc">supprimer</string>
   <string name="digit0">0</string>
   <string name="digit1">1</string>
   <string name="digit2">2</string>

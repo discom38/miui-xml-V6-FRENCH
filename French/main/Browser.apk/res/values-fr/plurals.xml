@@ -31,4 +31,12 @@
       <item quantity="other">%1$d éléments sélectionnés</item>
       <item quantity="one">%1$d élément sélectionné</item>
   </plurals>
+	<plurals name="adblock_rules_number_text">
+		<item quantity="other">%d éléments bloqués</item>
+		<item quantity="one">%d élément bloqué</item>
+	</plurals>
+	<plurals name="find_on_page_matches">
+		<item quantity="other">%d occurrences</item>
+		<item quantity="one">%d occurrence</item>
+	</plurals>
 </resources>

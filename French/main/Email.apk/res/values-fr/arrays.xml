@@ -72,4 +72,11 @@
       <item>Expéditeur</item>
       <item>Date</item>
   </string-array>
+	<string-array name="general_preference_text_zoom_values">
+      <item>Très petit</item>
+      <item>Petit</item>
+      <item>Normale</item>
+      <item>Grand</item>
+      <item>Très grand</item>
+	</string-array>
 </resources>

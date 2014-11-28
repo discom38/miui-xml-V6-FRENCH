@@ -70,4 +70,24 @@ I hope you'll add X feature, because…"</string>
   <string name="cta_dialog_title">Information</string>
   <string name="cta_not_show_again">Ne pas rappeler</string>
   <string name="hot_problem_empty">Vide</string>
+	<string name="bluetooth_problem1">"Association impossible avec des périphérique tiers"</string>
+	<string name="bluetooth_problem2">"Détection impossible des périphérique tiers"</string>
+	<string name="bluetooth_problem3">"Envoie de fichier impossible"</string>
+	<string name="bluetooth_problem4">"Réception de fichier impossible"</string>
+	<string name="camera_problem1">Qualité de photo basse</string>
+	<string name="camera_problem2">"Impossible de connecter l'appareil photo en USB"</string>
+	<string name="camera_problem3">L\'appareil photo crash</string>
+	<string name="camera_problem4">"Impossible de basculer entre l'appareil photo frontal et dorsal"</string>
+	<string name="camera_problem5">L\'appareil photo ne fonctionne plus</string>
+	<string name="power_consuming_problem1">Augmentation de la consommation de batterie après la mise à jour</string>
+	<string name="power_consuming_problem2">Utiliser cette apps consomme la batterie</string>
+	<string name="power_consuming_problem3">Consommation de batterie élevée quand l\'appareil est en veille</string>
+	<string name="reboot_problem1">"Impossible de redémarrer"</string>
+	<string name="reboot_problem2">Redémarre aléatoirement lorsque j\'utilise une apps précise</string>
+	<string name="suggestion_problem1">Vous devriez implémenter cette fonctionnalité car…</string>
+	<string name="toast_feedback_network_unavailable">"Connexion au réseau impossible"</string>
+	<string name="wifi_problem1">"Impossible de se connecter automatiquement sur un Wi-Fi sécurisé"</string>
+	<string name="wifi_problem2">Le signal Wi-Fi est faible</string>
+	<string name="wifi_problem3">Le Wi-Fi se déconnecte aléatoirement</string>
+	<string name="wifi_problem4">"Connexion au réseau impossible"</string>
 </resources>

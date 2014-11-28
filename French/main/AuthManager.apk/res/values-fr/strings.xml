@@ -4,7 +4,6 @@
 <resources>
   <string name="HIPS_Perm_Location_Access">Obtenir votre position actuelle</string>
   <string name="HIPS_Perm_Location_Monitor">Suivre votre position</string>
-  <string name="HIPS_Perm_Recorder_VoiceCall">Enregistrer des appels audio</string>
   <string name="Dashboard_App">Applications</string>
   <string name="Dashboard_HIPS_Disable_Content">Désactiver ceci diminue votre sécurité, cela provoquera l\'arrêt du suivi de vos application et de la protection de votre confidentialité par MIUI. Êtes-vous sûr de vouloir le désactiver ?</string>
   <string name="Dashboard_HIPS_Disable_Title">Permissions</string>
@@ -234,4 +233,24 @@
   <string name="HIPS_Perm_Wakelock">Empêcher la veille</string>
   <string name="HIPS_Perm_Wakelock_Desc">Empêche la veille de l\'appareil</string>
   <string name="HIPS_Perm_Wakelock_Hint">%1$s applis peuvent empêcher la veille</string>
+	<string name="HIPS_Action_Accept_Once">Accepter cette fois</string>
+	<string name="HIPS_Action_Reject_Once">Refuser cette fois</string>
+	<string name="HIPS_Perm_Read_Call_Log">Lire le journal d\'appel</string>
+	<string name="HIPS_Perm_Read_Call_Log_Desc">Lire le journal d\'appel</string>
+	<string name="HIPS_Perm_Read_Call_Log_Hint">%1$s applis peuvent lire le journal d\'appel</string>
+	<string name="HIPS_Perm_Read_Contact">Lire vos contacts</string>
+	<string name="HIPS_Perm_Read_Contact_Desc">Lire vos contacts</string>
+	<string name="HIPS_Perm_Read_Contact_Hint">%1$s applis peuvent accéder à vos contacts</string>
+	<string name="HIPS_Perm_Read_MMS">Lire les MMS</string>
+	<string name="HIPS_Perm_Read_MMS_Desc">Accéder à vos messages MMS</string>
+	<string name="HIPS_Perm_Read_MMS_Hint">%1$s applis peuvent accéder à vos MMS</string>
+	<string name="HIPS_Perm_Read_SMS">Lire vos messages sms</string>
+	<string name="HIPS_Perm_Read_SMS_Desc">Accéder à vos messages sms</string>
+	<string name="HIPS_Perm_Read_SMS_Hint">%1$s applis peuvent accéder à vos SMS</string>
+	<string name="HIPS_Perm_Xiaomi_Account">Compte Mi</string>
+	<string name="HIPS_Perm_Xiaomi_Account_Desc">Accéder à votre compte Mi</string>
+	<string name="HIPS_Perm_Xiaomi_Account_Hint">%1$s applis peuvent accéder à votre compte Mi</string>
+	<string name="HIPS_SecurityPrompt_Accept_Once">Accepter cette fois (%d)</string>
+	<string name="HIPS_SecurityPrompt_Reject_Once">Refuser cette fois (%d)</string>
+	<string name="permisson_reject_notice_toast_text">"\"%1$s\" n'a pas la permission de %2$s. Vous pouvez changer ses permissions à loisir dans Securité &gt; Permissions."</string>
 </resources>
